@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ignacio
-- 👀 I’m doing a Game Develpment course (currently in 2nd year)
+- 👀 I’m doing a Game Development course (currently in 2nd year)
 - 🌱 I know a bit of Unity and C# and I’m currently learning Unreal Blueprints.
-- Bluprints are weird (for me), they don't seem to match my brains logic.
+- Bluprints are weird (for me), they don't seem to match my brain's logic.
